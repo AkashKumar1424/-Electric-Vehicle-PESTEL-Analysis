@@ -42,4 +42,4 @@ This project explores the U.S. electric vehicle (EV) market using the PESTEL fra
 - `scripts/` — Python and DAX code samples
 
 ## 🌐 Connect
-- [LinkedIn: Akash Kumar](www.linkedin.com/in/akash-kumar-28b747277)
+- [LinkedIn: Akash Kumar](https://www.linkedin.com/in/akash-kumar-28b747277/)
